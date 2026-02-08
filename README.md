@@ -16,3 +16,7 @@ You have two chances to get the order right, then the customer will leave.
 One more thing, if you take too long to prepare an order, than the customer will lose patience and leave!
 
 Think you have what it takes to run the bakery?
+
+**HOW TO RUN THE GAME**
+
+Make sure you download the whole zip file, then simply run the html! It's that easy!
